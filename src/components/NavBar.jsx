@@ -10,7 +10,7 @@ function NavBar() {
       <div className='flex items-center justify-between'>
         {/* <!-- Logo --> */}
         <div className='p-2'>
-          <a href='index.html'>
+          <a href='https://anthonyd43.github.io/portfolio/'>
             <img
               src={logo}
               alt='Logo'
