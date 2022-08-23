@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio-react/static/css/main.d28e859f.css",
-    "main.js": "/portfolio-react/static/js/main.36ade6d3.js",
+    "main.js": "/portfolio-react/static/js/main.583f4bc0.js",
     "static/js/787.aeca62f9.chunk.js": "/portfolio-react/static/js/787.aeca62f9.chunk.js",
     "static/media/about-pic.jpg": "/portfolio-react/static/media/about-pic.a1e22331e888a44c9214.jpg",
     "static/media/spotify-hand-track.png": "/portfolio-react/static/media/spotify-hand-track.0cf73cb4ef40dc4d3a3a.png",
@@ -17,11 +17,11 @@
     "static/media/mchp-logo.png": "/portfolio-react/static/media/mchp-logo.6fd142fadcba581eb78d.png",
     "index.html": "/portfolio-react/index.html",
     "main.d28e859f.css.map": "/portfolio-react/static/css/main.d28e859f.css.map",
-    "main.36ade6d3.js.map": "/portfolio-react/static/js/main.36ade6d3.js.map",
+    "main.583f4bc0.js.map": "/portfolio-react/static/js/main.583f4bc0.js.map",
     "787.aeca62f9.chunk.js.map": "/portfolio-react/static/js/787.aeca62f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d28e859f.css",
-    "static/js/main.36ade6d3.js"
+    "static/js/main.583f4bc0.js"
   ]
 }
