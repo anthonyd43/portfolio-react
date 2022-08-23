@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/portfolio-react/static/css/main.d28e859f.css",
+    "main.js": "/portfolio-react/static/js/main.36ade6d3.js",
+    "static/js/787.aeca62f9.chunk.js": "/portfolio-react/static/js/787.aeca62f9.chunk.js",
+    "static/media/about-pic.jpg": "/portfolio-react/static/media/about-pic.a1e22331e888a44c9214.jpg",
+    "static/media/spotify-hand-track.png": "/portfolio-react/static/media/spotify-hand-track.0cf73cb4ef40dc4d3a3a.png",
+    "static/media/crux-compiler-interpreter.jpg": "/portfolio-react/static/media/crux-compiler-interpreter.841e5a597f30d42f722d.jpg",
+    "static/media/emb-alarm-clock.jpg": "/portfolio-react/static/media/emb-alarm-clock.dfc1aa96dc57a369a251.jpg",
+    "static/media/wip-logo.gif": "/portfolio-react/static/media/wip-logo.8552eaeab5ceab9ffec2.gif",
+    "static/media/wip.jpg": "/portfolio-react/static/media/wip.6de912f4e287178db1a5.jpg",
+    "static/media/ADiepResume.pdf": "/portfolio-react/static/media/ADiepResume.925d1f7e7f5c0cc75414.pdf",
+    "static/media/antlr-logo.png": "/portfolio-react/static/media/antlr-logo.ff8aa8ceedb3682bfba7.png",
+    "static/media/angular-logo.png": "/portfolio-react/static/media/angular-logo.fad9b863024d32480a3c.png",
+    "static/media/tailwind-logo.png": "/portfolio-react/static/media/tailwind-logo.39138a421122620729a5.png",
+    "static/media/navbar-logo.png": "/portfolio-react/static/media/navbar-logo.be1e0fa1800669ebf6e5.png",
+    "static/media/mchp-logo.png": "/portfolio-react/static/media/mchp-logo.6fd142fadcba581eb78d.png",
+    "index.html": "/portfolio-react/index.html",
+    "main.d28e859f.css.map": "/portfolio-react/static/css/main.d28e859f.css.map",
+    "main.36ade6d3.js.map": "/portfolio-react/static/js/main.36ade6d3.js.map",
+    "787.aeca62f9.chunk.js.map": "/portfolio-react/static/js/787.aeca62f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d28e859f.css",
+    "static/js/main.36ade6d3.js"
+  ]
+}
